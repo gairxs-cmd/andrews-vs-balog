@@ -1,0 +1,10 @@
+ANDREWS VS BALOG — ALPHA 0.2
+
+Abra project.godot com Godot 4 Standard. Pressione F5.
+Menu: 1 (CPU) ou 2 (2 jogadores), Enter para começar.
+Andrews: A D W S, F leve, G pesado, H especial, Shift defesa.
+Balog: setas, J leve, K pesado, L especial, I defesa.
+Controle: D-pad/analog, A pula, X leve, Y pesado, B especial, RB defesa.
+P pausa; R reinicia; F3 hitboxes.
+
+Se aparecer erro, copie a mensagem da aba Depurador da Godot.
